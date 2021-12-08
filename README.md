@@ -1,36 +1,19 @@
 # CPSC350_FA21_ASSIGNMENT6_PELTON-SOPHIE---CHILVERS-OLIVIA-
 
 1.Olivia Chilvers 
-  2366117
-  ochilvers@chapman.edu
-  CPSC 350-01
-  Assignment 6
+  -- 2366117
+  -- ochilvers@chapman.edu
+ --  CPSC 350-01
+  -- Assignment 6
 
 2.Sophie Pelton
-  2370862
-  spelton@chapman.edu
-  CPSC 350-01
-  Assignment 6
+   -- 2370862
+   -- spelton@chapman.edu
+  -- CPSC 350-01
+  -- Assignment 6
 
 
-3.Main.cpp
-  bst.h
-  Faculty.cpp
-  Faculty.h
-  FileProcessor.cpp
-  FileProcessor.h
-  GenStack.h
-  LinkedList.h
-  Makefile
-  Person.cpp
-  Person.h
-  PersonBST.h
-  Rollback.cpp
-  Rollback.h
-  Simulation.cpp
-  Simulation.h
-  Student.cpp
-  Student.h
+3.Main.cpp -- bst.h -- Faculty.cpp -- Faculty.h -- FileProcessor.cpp -- FileProcessor.h -- GenStack.h -- LinkedList.h -- Makefile -- Person.cpp -- Person.h -- PersonBST.h -- Rollback.cpp -- Rollback.h -- Simulation.cpp -- Simulation.h -- Student.cpp -- Student.h
 
 4. #2 prints out only the information of the faculty and not their advisees; We did this to focus only on the faculty details and less clutter
   #4 prints out the faculty information and the IDs of the advisees; We did this to prevent clutter of all the student’s individual info
